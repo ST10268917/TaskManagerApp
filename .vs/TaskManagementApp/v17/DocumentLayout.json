@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza\\source\\repos\\TaskManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07AE3F0B-7CA3-4F5C-98AA-F6A6C6DB43C6}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\hamza\\source\\repos\\taskmanagementapp\\taskmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07AE3F0B-7CA3-4F5C-98AA-F6A6C6DB43C6}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AE3F0B-7CA3-4F5C-98AA-F6A6C6DB43C6}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\hamza\\source\\repos\\taskmanagementapp\\taskmanagementapp\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07AE3F0B-7CA3-4F5C-98AA-F6A6C6DB43C6}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\views\\task\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AE3F0B-7CA3-4F5C-98AA-F6A6C6DB43C6}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\hamza\\source\\repos\\taskmanagementapp\\taskmanagementapp\\migrations\\20240930085215_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AE3F0B-7CA3-4F5C-98AA-F6A6C6DB43C6}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\migrations\\20240930085215_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AE3F0B-7CA3-4F5C-98AA-F6A6C6DB43C6}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\hamza\\source\\repos\\taskmanagementapp\\taskmanagementapp\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AE3F0B-7CA3-4F5C-98AA-F6A6C6DB43C6}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AE3F0B-7CA3-4F5C-98AA-F6A6C6DB43C6}|TaskManagementApp\\TaskManagementApp.csproj|c:\\users\\hamza\\source\\repos\\taskmanagementapp\\taskmanagementapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AE3F0B-7CA3-4F5C-98AA-F6A6C6DB43C6}|TaskManagementApp\\TaskManagementApp.csproj|solutionrelative:taskmanagementapp\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\TaskManagementApp\\TaskManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\TaskManagementApp\\TaskManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T08:54:35.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\TaskManagementApp\\TaskManagementApp\\Views\\Task\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Views\\Task\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\TaskManagementApp\\TaskManagementApp\\Views\\Task\\Index.cshtml",
+              "RelativeToolTip": "TaskManagementApp\\Views\\Task\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T08:53:26.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240930085215_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\TaskManagementApp\\TaskManagementApp\\Migrations\\20240930085215_Initial Create.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Migrations\\20240930085215_Initial Create.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\TaskManagementApp\\TaskManagementApp\\Migrations\\20240930085215_Initial Create.cs",
+              "RelativeToolTip": "TaskManagementApp\\Migrations\\20240930085215_Initial Create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:52:16.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\TaskManagementApp\\TaskManagementApp\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\TaskManagementApp\\TaskManagementApp\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManagementApp\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAAE0AAAAAmpmZmZkTwH4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:40:27.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza\\source\\repos\\TaskManagementApp\\TaskManagementApp\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "TaskManagementApp\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\Hamza\\source\\repos\\TaskManagementApp\\TaskManagementApp\\Models\\TaskModel.cs",
+              "RelativeToolTip": "TaskManagementApp\\Models\\TaskModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:33:05.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
